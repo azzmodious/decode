@@ -1,0 +1,23 @@
+# Ignore hidden system files
+*~
+.DS_Store
+*#*#
+*.env
+*.log
+*.swp
+*.swo
+
+# Ignore local NetBeans files
+nbproject/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Ignore build and test files
+build/
+coverage/
+dist/
+
+# Ignore dependencies
+node_modules/
